@@ -1,0 +1,59 @@
+The Rational Unified Process
+• Một mô hình quy trình hiện đại bắt nguồn từ công việc trên UML và quy trình liên quan.
+• Thường được mô tả từ 3 góc độ :
+- 1 perspective linh hoạt cho thấy các giai đoan theo thời gian,
+- 1 perspective tĩnh thể hiện các hoạt động của chương trình,
+- 1 perspective thực tế gợi ý thực hành tốt,
+
+RUP phases
+• Khởi đầu
+– Lập trường hợp kinh doanh cho hệ thống.
+• Xây dựng
+– Phát triển sự hiểu biết về miền vấn đề và kiến trúc hệ thống.
+• Xây dựng
+– Thiết kế, lập trình và kiểm thử hệ thống.
+• Chuyển tiếp
+– Triển khai hệ thống trong môi trường hoạt động của nó.
+
+RUP good practice
+• Phát triển phần mềm lặp đi lặp lại
+• Quản lý yêu cầu
+• Sử dụng kiến trúc dựa trên thành phần
+• Mô hình hóa phần mềm trực quan
+• Xác minh chất lượng phần mềm
+• Kiểm soát các thay đổi đối với phần mềm
+
+Computer-aided software engineering
+• Computer-aided software engineering (CASE) là phần mềm hỗ trợ các quá trình phát triển và tiến hóa phần mềm.
+• Hoạt động của tự động hóa:
+– Trình chỉnh sửa đồ họa để phát triển mô hình hệ thống;
+– Từ điển dữ liệu để quản lý các thực thể thiết kế;
+– Trình tạo giao diện người dùng đồ họa để xây dựng giao diện người dùng;
+– Trình gỡ lỗi để hỗ trợ tìm lỗi chương trình;
+– Trình dịch tự động để tạo các phiên bản mới của chương trình.
+
+CASE technology
+• Công nghệ CASE đã dẫn đến những cải tiến đáng kể trong quy trình phần mềm.
+– Tuy nhiên, đây không phải là thứ tự của các cải tiến lớn như đã từng được dự đoán
+• Công nghệ phần mềm đòi hỏi tư duy sáng tạo
+– Điều này không dễ dàng tự động hóa;
+• Công nghệ phần mềm là một hoạt động nhóm
+– Đối với các dự án lớn, nhiều thời gian dành cho tương tác nhóm.
+– Công nghệ CASE không thực sự hỗ trợ những điều này.
+
+CASE classification
+• Phân loại giúp chúng ta hiểu các loại công cụ CASE khác nhau và sự hỗ trợ của chúng đối với các hoạt động của quy trình.
+• Quan điểm chức năng
+– Công cụ được phân loại theo chức năng cụ thể của chúng.
+• Phối cảnh quy trình
+– Các công cụ được phân loại theo các hoạt động quy trình được hỗ trợ.
+• Quan điểm hội nhập
+– Các công cụ được phân loại theo tổ chức của chúng thành các đơn vị tích hợp.
+
+CASE integration
+• Công cụ
+– Hỗ trợ một giai đoạn quy trình như đặc điểm kỹ thuật hoặc tích hợp CASE thiết kế, Thông thường bao gồm một số công cụ tích hợp.
+• Bàn làm việc
+– Hỗ trợ các tác vụ quy trình riêng lẻ như kiểm tra tính nhất quán của thiết kế, chỉnh sửa văn bản, v.v.
+• Môi trường
+– Hỗ trợ tất cả hoặc một phần quan trọng của toàn bộ quy trình phần mềm. Thông thường bao gồm một số bàn làm việc tích hợp.
